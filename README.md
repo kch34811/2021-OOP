@@ -1,5 +1,5 @@
 ![POSTECH](https://img.shields.io/badge/POSTECH-%239a034c)
-![CSED232](https://img.shields.io/badge/CSED211-gray)
+![CSED232](https://img.shields.io/badge/CSED232-gray)
 <img src="https://img.shields.io/badge/C++-004482?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 
 # Object Oriented Programming
